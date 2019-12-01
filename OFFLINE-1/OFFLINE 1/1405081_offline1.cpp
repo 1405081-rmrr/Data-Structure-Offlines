@@ -1,7 +1,5 @@
-#include<stdio.h>
+
 #include <iostream>
-#include<stdlib.h>
-#include <string.h>
 #include <sstream>
 #include <bits/stdc++.h>
 #define LIST_INIT_SIZE 2
