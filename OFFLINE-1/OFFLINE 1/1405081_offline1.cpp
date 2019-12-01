@@ -3,6 +3,7 @@
 #include<stdlib.h>
 #include <string.h>
 #include <sstream>
+#include <bits/stdc++.h>
 #define LIST_INIT_SIZE 2
 #define NULL_VALUE -99999
 #define SUCCESS_VALUE 99999
